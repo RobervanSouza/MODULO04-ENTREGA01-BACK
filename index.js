@@ -3,7 +3,7 @@ const cors = require('cors');
 const routes = require('./src/routes/convite.route');
 const conectDatabase = require('./src/database/database');// import database
 
-const port = 3000; // pode fazer a alteração da port 
+const port = 3001; // pode fazer a alteração da port 
 const app = express(); // ativa express app
 
 conectDatabase(); // ativa conecta data base
