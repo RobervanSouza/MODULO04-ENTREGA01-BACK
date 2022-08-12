@@ -4,21 +4,24 @@
       "nome": "convite para casamento",
       "descricao": "feito em papel offset",
       "marca": "perola negra convites",
-      "quantidade": 5
+      "quantidade": 5,
+      "imageUrl":"https://images.alphacoders.com/606/thumb-1920-606021.jpg"
     },
     {
       
       "nome": "convite 15 anos",
       "descricao": "feito em papel offset",
       "marca": "perola negra convites",
-      "quantidade": 5
+      "quantidade": 5,
+      "imageUrl":"https://images.alphacoders.com/606/thumb-1920-606021.jpg"
     },
     {
      
       "nome": "convite aniversario 60 anos",
       "descricao": "feito em papel offset",
       "marca": "perola negra convites",
-      "quantidade": 5
+      "quantidade": 5, 
+      "imageUrl":"https://images.alphacoders.com/606/thumb-1920-606021.jpg"
     }
   ]
   
