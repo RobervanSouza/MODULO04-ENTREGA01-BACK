@@ -18,12 +18,12 @@ const ConviteSchema = new mongoose.Schema({
     type: Number,
     require: true,
   },
-    /*
+    
   imageUrl: {
     type: String,
     required: true,
   },
-  */
+  
 });
 
 const Convite = mongoose.model('Convites', ConviteSchema);
